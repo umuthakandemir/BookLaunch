@@ -1,6 +1,6 @@
 # How to download to Your PC
 ``` bash
-gh clone https://github.com/umuthakandemir/BookLaunch.git
+git clone https://github.com/umuthakandemir/BookLaunch.git
 ```
 
 # **Intended Situation**
